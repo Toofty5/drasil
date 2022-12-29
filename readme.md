@@ -1,12 +1,12 @@
 # drasil
 
-![drasil](imgur.com image replace me!)
+QMK configuration and wiring diagram for "Drasil" handwired 60% keyboard.
 
-*A short description of the keyboard/project*
+This custom layout was created to accommodate the 60 keys with a 9x9 matrix, in order to fit on the 18 available pins on a Pro Micro microcontroller.
 
 * Keyboard Maintainer: [Jay](https://github.com/Toofty5)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Pro Micro ATmega32U4
+* Hardware Availability: [Keeb.io](https://keeb.io/collections/diy-parts/products/pro-micro-5v-16mhz-arduino-compatible-atmega32u4)
 
 Make example for this keyboard (after setting up your build environment):
 
